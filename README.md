@@ -1,2 +1,2 @@
 # Museum
-https://yanitobonito.github.io/Museum/
+https://yanitobonito.github.io/Museum
